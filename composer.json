@@ -1,0 +1,14 @@
+{
+    "name": "rsids/markup-seo",
+    "description": "Markup SEO module for Processwire",
+    "type": "library",
+    "version": "0.9.1",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Ids Klijnsma",
+            "email": "werk@idsklijnsma.nl"
+        }
+    ],
+    "require": {}
+}
